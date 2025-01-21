@@ -3,7 +3,7 @@
 欢迎来到MaqiAI，我们的目标是收集100个靠谱的AI工具，让优质的AI技术为每个人所用。加入我们，共同探索AI的无限可能。
 
 - [**ChatGPT**](https://chatgpt.com/)
-  * ChatGPT是由OpenAI开发的人工智能对话模型，旨在通过自然语言处理技术与用户进行互动，提供信息、解答问题并进行创意交流。
+  * ChatGPT 是由 OpenAI 开发的人工智能对话模型，旨在通过自然语言处理技术与用户进行互动，提供信息、解答问题并进行创意交流。
 
 - [**豆包 - 字节跳动旗下 AI 智能助手**](https://www.doubao.com/)
   * 豆包是字节跳动研发的多功能 AI，能精准解答各类知识疑问，擅长创作新闻稿、故事、诗歌等多种文本，还具备图片生成、代码编写、多语种翻译等能力，全方位助力信息获取与内容产出 。
@@ -48,7 +48,7 @@
   * Coze 扣子是字节跳动推出的一款无需代码基础，可快速搭建各类 AI 聊天机器人并发布到多个平台，集成丰富插件、具备知识库和工作流等功能的 AI 聊天机器人构建平台。
 
 - [**Trae - Ship Faster with Trae**](https://www.trae.ai/)
-  * Trae IDE 是字节跳动于 2025 年 1 月 19 日发布的由旗下新加坡公司 SPRING (SG) PTE.LTD. 提供服务的 AI 中文开发环境，支持 AI 问答、代码自动补全、基于 Agent 的 AI 编程等功能，内置 GPT-4o 和 Claude-3.5-Sonnet 模型，目前仅支持 Mac 版本。
+  * Trae IDE 是字节跳动于 2024 年 1 月 19 日发布的由旗下新加坡公司 SPRING (SG) PTE.LTD. 提供服务的 AI 中文开发环境，支持 AI 问答、代码自动补全、基于 Agent 的 AI 编程等功能，内置 GPT-4 和 Claude-3.5-Sonnet 模型，目前仅支持 Mac 版本。
 
 - [**Windsurf Editor and Codeium extensions**](https://codeium.com/)
   * Windsurf Editor 是一款由 Codeium 推出的 AI 代码编辑器，是 Codeium 推出的首款“代理式”集成开发环境（IDE），深度集成 AI 技术，通过 AI Copilot 和 AI Agent 实现人机协作和复杂任务的自动处理。
