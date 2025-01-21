@@ -33,7 +33,7 @@
   * 通义千问是阿里云推出的超大规模语言模型，能够理解人类语言并像智能助手一样流畅对话。它能够高效完成文本创作、知识问答、逻辑推理等多样化任务，是你的全能AI助手。
 
 - [**Sider：一站式 AI 助手**](https://sider.ai/)
-  * ChatGPT 侧边栏：使用 ChatGPT、GPT-4o、Claude3 和 Gemini 1.5 Pro 进行高级 AI 搜索、阅读和写作，提升工作效率。
+  * Sider 是一款一站式 AI 助手，以 ChatGPT 侧边栏形式集成多种大语言模型如 ChatGPT、GPT - 4o、Claude3 和 Gemini 1.5 Pro ，助力用户实现高级 AI 搜索、阅读及写作，大幅提升工作效率。
 
 - [**WPS 灵犀**](https://lingxi.wps.cn/)
   * WPS 灵犀是金山办公软件公司推出的一款集成了人工智能技术的智能办公助手，可帮助用户快速完成文档编辑、数据分析、演示制作等任务，具备 AI 搜索、读文档、快速创作、生成 PPT 等功能。
@@ -46,3 +46,12 @@
 
 - [**扣子 - AI应用开发平台**](https://www.coze.cn/)
   * Coze 扣子是字节跳动推出的一款无需代码基础，可快速搭建各类 AI 聊天机器人并发布到多个平台，集成丰富插件、具备知识库和工作流等功能的 AI 聊天机器人构建平台。
+
+- [**Trae - Ship Faster with Trae**](https://www.trae.ai/)
+  * Trae IDE 是字节跳动于 2025 年 1 月 19 日发布的由旗下新加坡公司 SPRING (SG) PTE.LTD. 提供服务的 AI 中文开发环境，支持 AI 问答、代码自动补全、基于 Agent 的 AI 编程等功能，内置 GPT-4o 和 Claude-3.5-Sonnet 模型，目前仅支持 Mac 版本。
+
+- [**Windsurf Editor and Codeium extensions**](https://codeium.com/)
+  * Windsurf Editor 是一款由 Codeium 推出的 AI 代码编辑器，是 Codeium 推出的首款“代理式”集成开发环境（IDE），深度集成 AI 技术，通过 AI Copilot 和 AI Agent 实现人机协作和复杂任务的自动处理。
+
+- [**Cursor - The AI Code Editor**](https://www.cursor.com/)
+  * Cursor AI 编辑器是 Anysphere 推出的一款 AI 驱动的代码编辑器，深度集成 AI 技术，具备智能代码补全、自然语言编辑、代码库分析、实时错误检查与修复建议等功能，支持多种编程语言和主流操作系统，能为开发者提供高效、智能的编程体验。
