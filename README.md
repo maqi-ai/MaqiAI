@@ -26,6 +26,9 @@
 - [**ChatPPT - AI一键对话生成PPT，智能排版美化**](https://chat-ppt.com/)
   * ChatPPT是一款创新的AI辅助PPT制作工具。用户可以通过简单的文本描述（如主题、结构、内容要点等），让AI快速生成高质量的PPT框架和内容，节省用户制作PPT的时间和精力。此外，用户还可以对生成的PPT进行个性化的修改和完善，使PPT制作过程更加高效智能。
 
+- [**Gemini**](https://gemini.google.com/)
+  * Gemini 是 Google AI 开发的一款大型语言模型，具备强大的文本生成、翻译、问答和信息总结能力，旨在为用户提供更智能、更全面的语言服务。
+
 - [**AiPPT - 全智能AI一键生成PPT**](https://www.aippt.cn/)
   * AiPPT是一款AI驱动的PPT在线生成工具。用户只需输入主题，AI即可一键生成高质量的PPT，无需复杂操作，大大提高了PPT制作的效率。
 
