@@ -61,3 +61,22 @@
 
 - [**豆包MarsCode - 编程助手**](https://www.marscode.cn/)
   * 豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力。
+
+- [**DeepSeek | 深度求索**](https://www.deepseek.com/)
+  * DeepSeek（深度求索）是一家专注于人工智能技术研发与应用的创新型企业，由幻方量化创立，致力于通过自然语言处理（NLP）、深度学习等核心技术开发高效、智能的解决方案。
+
+- [**讯飞星火大模型**](https://xinghuo.xfyun.cn/)
+  * 讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。
+
+- [**硅基流动 | SiliconFlow**](https://siliconflow.cn/zh-cn/)
+  * SiliconFlow（硅基流动）是一家专注于构建高效能、标准化的生成式人工智能计算基础设施平台的公司，提供包括大语言模型推理引擎SiliconLLM、高性能文生图/视频加速库OneDiff以及SiliconCloud模型云服务平台等产品，致力于降低AI模型部署和推理成本，助力企业和开发者高效、低成本地实现AI应用开发。
+
+- [**笔格AIPPT**](https://bigppt.cn/)
+  * 一句话智能生成PPT。
+
+- [**iSlide - 让PPT设计简单起来**](https://www.islide.cc/)
+
+- [**秘塔AI搜索**](https://metaso.cn/)
+
+- [**Vidu AI**](https://www.vidu.com/zh)
+  * Vidu AI - 极速生成高质量创意视频，用AI轻松表达想法。
