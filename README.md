@@ -59,6 +59,9 @@
 - [**Cursor - The AI Code Editor**](https://www.cursor.com/)
   * Cursor AI 编辑器是 Anysphere 推出的一款 AI 驱动的代码编辑器，深度集成 AI 技术，具备智能代码补全、自然语言编辑、代码库分析、实时错误检查与修复建议等功能，支持多种编程语言和主流操作系统，能为开发者提供高效、智能的编程体验。
 
+- [**agent-qa - 带持久记忆与自我改进的 AI 测试工具**](https://vostride.com)
+  * vostride 的自然语言网页、Android 与 iOS 测试工具，结合 memidex 持久记忆、经验证的自我改进、MCP 集成与可复查运行证据；模型等服务费用依配置与用量产生。
+
 - [**豆包MarsCode - 编程助手**](https://www.marscode.cn/)
   * 豆包旗下的编程助手，提供智能补全、智能预测、智能问答等能力，节省开发时间，释放脑海中的创造力。
 
